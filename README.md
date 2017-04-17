@@ -1,8 +1,12 @@
-# vue-webpack-boilerplate
+#vue-cli-template-webpack-vuex
 
-> A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
+## (Work In Progress!)
+
+> A full-featured Webpack setup with Vuex and Vue-router hot-reload, lint-on-save, unit testing & css extraction.
 
 > This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init webpack#1.0 my-project`
+
+> Based on vue-webpack-boilerplate
 
 ## Documentation
 
@@ -15,7 +19,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init webpack my-project
+$ vue init relaxsd/webpack-vuex my-project
 $ cd my-project
 $ npm install
 $ npm run dev
